@@ -10,6 +10,11 @@ All the files are licensed using CreativeCommons Attribution-NonCommercial-Share
 
 Unless other license is specified for a particular file.
 
+Attribution:
+
+Original design: Juan Carlos Orozco
+Design was further enhanced by our great team at MakerMex: <Names to be added>
+
 Sources:
 
 Note that this project is in Alpha state because although it already performs quite nicely, we are still heavily making improvements. Specially defining the base for the quick interchangeable print heads.
