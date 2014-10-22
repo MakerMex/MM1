@@ -14,7 +14,7 @@ Attribution:
 
 Original design: Juan Carlos Orozco
 
-Design was further enhanced by our great team at MakerMex: <Names to be added>
+Design was further enhanced by our great team at MakerMex: Place team members names here...
 
 Sources:
 
