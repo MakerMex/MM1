@@ -13,6 +13,7 @@ Unless other license is specified for a particular file.
 Attribution:
 
 Original design: Juan Carlos Orozco
+
 Design was further enhanced by our great team at MakerMex: <Names to be added>
 
 Sources:
