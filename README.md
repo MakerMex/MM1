@@ -18,7 +18,7 @@ Design was further enhanced by our great team at MakerMex: Place team members na
 
 Sources:
 
-Note that this project is in Alpha state because although it already performs quite nicely, we are still heavily making improvements. Specially defining the base for the quick interchangeable print heads.
+Note that this project is in Alpha state because although it already performs quite nicely, we are still heavily making improvements and changes. Specially defining the base for the quick interchangeable print heads.
 
 ===
 TODO:
