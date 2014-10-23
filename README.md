@@ -8,7 +8,7 @@ License:
 
 All the files are Copyright 2014 MakerMex and licensed using CreativeCommons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0): http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Unless other license is specified on a particular folder.
+Unless other license is specified for a particular file.
 
 Attribution:
 
