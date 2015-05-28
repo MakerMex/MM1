@@ -15,8 +15,8 @@ Attribution:
 Original design: Juan Carlos Orozco
 
 Design was further enhanced by our great team at MakerMex: 
-Luis Arturo Pacheco
-Francisco Mireles
+Luis Arturo Pacheco,
+Francisco Mireles,
 Ricardo Hernandez
 
 Sources:

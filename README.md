@@ -3,6 +3,7 @@ MM1
 
 MM1 modular reprap printer
 http://makermex.com/
+Version: Beta
 
 License:
 
