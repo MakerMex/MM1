@@ -28,5 +28,5 @@ Note that this project is in Alpha state because although it already performs qu
 ===
 TODO:
 
-- Add images of final assembly and intermediate assemblies as a temorary solution while we do a complete manual.
+- Add images of final assembly and intermediate assemblies as a temporary solution while we do a complete manual.
 - Add bill of materials.
