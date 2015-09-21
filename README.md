@@ -1,10 +1,10 @@
 MM1
 ===
 
-MM1 modular reprap printer
+MM1 modular Reprap printer
 http://makermex.com/
 
-Version: Beta
+Version: Beta, Release 1.0
 
 License:
 
@@ -20,14 +20,11 @@ Design was further enhanced by our great team at MakerMex:
 Luis Arturo Pacheco,
 Francisco Mireles,
 Ricardo Hernandez
+Napoleon Ramirez
 
-Sources:
+Assembly manual and BOM at
 
-Note that this project is in Alpha state because although it already performs quite nicely, we are still heavily making improvements and changes. Specially defining the base for the quick interchangeable print heads.
+http://usa.makermex.com/wiki
 
 ===
-TODO:
 
-- Add images of final assembly and intermediate assemblies as a temporary solution while we do a complete manual.
--Add Firmware upload manual
-- Add bill of materials.
